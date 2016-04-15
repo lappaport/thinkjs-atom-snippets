@@ -1,0 +1,4 @@
+'.source.js':
+  '\u6570\u636E\u8868\u5B9A\u4E49':
+    'prefix': 'th-model-init'
+    'body': 'init(...args){\r\n    super.init(...args);\r\n    this.tablePrefix = ""; //\u5C06\u6570\u636E\u8868\u524D\u7F00\u8BBE\u7F6E\u4E3A\u7A7A\r\n    this.tableName = "${1:user2}"; //\u5C06\u5BF9\u5E94\u7684\u6570\u636E\u8868\u540D\u8BBE\u7F6E\u4E3A user2\r\n    //this.pk = "${2:user_id}"; //\u5C06\u4E3B\u952E\u5B57\u6BB5\u8BBE\u7F6E\u4E3A user_id\r\n}\r\n$0'

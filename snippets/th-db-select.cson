@@ -1,0 +1,4 @@
+'.source.js':
+  '\u6570\u636E\u8868\u5B9A\u4E49':
+    'prefix': 'th-db-select'
+    'body': 'let model = this.model("${1:user}");\r\nlet data = yield model.where({name: "thinkjs"}).find();\r\n//data returns {name: "thinkjs", email: "admin@thinkjs.org", ...}\r\n$0'

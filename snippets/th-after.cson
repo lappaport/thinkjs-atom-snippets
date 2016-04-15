@@ -1,0 +1,4 @@
+'.source.js':
+  '\u540E\u7F6E\u64CD\u4F5C':
+    'prefix': 'th-after'
+    'body': '__after(){\r\n    ${1:...}\r\n}\r\n$0'

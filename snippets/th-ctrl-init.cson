@@ -1,0 +1,4 @@
+'.source.js':
+  'Controller\u521D\u59CB\u5316init':
+    'prefix': 'th-ctrl-init'
+    'body': 'init(http){\r\n    super.init(http); //\u8C03\u7528\u7236\u7C7B\u7684init\u65B9\u6CD5  \r\n    ${1:...}\r\n}\r\n$0'

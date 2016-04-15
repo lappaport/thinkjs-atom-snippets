@@ -1,0 +1,4 @@
+'.source.js':
+  '\u6570\u636E\u66F4\u65B0':
+    'prefix': 'th-db-update'
+    'body': 'let model = this.model("${1:user}");\r\nlet affectedRows = yield model.where({name: "thinkjs"}).update({email: "admin@thinkjs.org"});\r\n$0'

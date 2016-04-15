@@ -1,0 +1,4 @@
+'.source.html':
+  'ejs include ':
+    'prefix': 'th-ejs-include'
+    'body': '<%include ${1:inc/header.html}%>\r\n$0'

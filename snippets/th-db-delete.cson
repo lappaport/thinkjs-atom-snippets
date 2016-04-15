@@ -1,0 +1,4 @@
+'.source.js':
+  '\u5220\u9664\u6570\u636E':
+    'prefix': 'th-db-delete'
+    'body': 'let model = this.model("${1:user}");\r\nlet affectedRows = yield model.where({id: [">", 100]}).delete();\r\n$0'

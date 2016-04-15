@@ -1,0 +1,4 @@
+'.source.js':
+  '\u63D2\u5165\u4E00\u6761\u6570\u636E':
+    'prefix': 'th-db-insert'
+    'body': 'let model = this.model("${1:user}");\r\nlet insertId = yield model.add({name: "xxx", pwd: "yyy"});\r\n$0'

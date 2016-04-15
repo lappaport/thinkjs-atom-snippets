@@ -1,0 +1,4 @@
+'.source.html':
+  'ejs for ':
+    'prefix': 'th-ejs-for'
+    'body': '<%list.forEach(function(item){%>\r\n    <li><%=item.name%></li>\r\n<%})%>\r\n$0'

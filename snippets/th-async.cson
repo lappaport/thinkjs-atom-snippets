@@ -1,0 +1,4 @@
+'.source.js':
+  'async es7':
+    'prefix': 'th-async'
+    'body': 'async ${1:index}Action(){\r\n\r\n}\r\n$0'

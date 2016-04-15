@@ -1,0 +1,4 @@
+'.source.js':
+  'demoAction es7':
+    'prefix': 'th-demoAction'
+    'body': 'async ${1:demo}Action(){\r\n    let model = this.model("${2:user}");\r\n    let data = await model.${3:select}();\r\n    return this.success(data);\r\n}\r\n$0'

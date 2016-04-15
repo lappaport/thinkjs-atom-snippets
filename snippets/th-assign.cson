@@ -1,0 +1,4 @@
+'.source.js':
+  '\u8D4B\u503C\u64CD\u4F5C':
+    'prefix': 'th-assign'
+    'body': 'this.assign(\'${1:name}\', ${2:welefen});\r\n$0'

@@ -1,0 +1,4 @@
+'.source.js':
+  'JSONP \u8F93\u51FA':
+    'prefix': 'th-jsonp'
+    'body': '//let data = {name: "thinkjs"};\r\nthis.jsonp(data);\r\n$0'

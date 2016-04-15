@@ -1,0 +1,4 @@
+'.source.html':
+  'ejs variable escape':
+    'prefix': 'th-ejs-var-escape'
+    'body': '<%= ${1:name}%>\r\n$0'

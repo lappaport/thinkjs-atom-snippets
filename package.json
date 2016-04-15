@@ -1,0 +1,20 @@
+{
+  "name": "thinkjs-snippets",
+  "description": "thinkjs.js 2.0+ ES6 snippets for Atom",
+  "keywords": [
+    "thinkjs",
+    "thinkjs.js",
+    "components",
+    "snippets"
+  ],
+  "version": "0.1.0",
+  "repository": "",
+  "license": "MIT",
+  "author": {
+    "name": "zhangshibin"
+  },
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}

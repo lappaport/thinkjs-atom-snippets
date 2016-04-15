@@ -1,0 +1,4 @@
+'.source.js':
+  'http \u5BF9\u8C61':
+    'prefix': 'th-http'
+    'body': 'let http = this.http;\r\n$0'

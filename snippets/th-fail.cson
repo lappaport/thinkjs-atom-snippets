@@ -1,0 +1,4 @@
+'.source.js':
+  '\u8F93\u51FA\u542B\u6709\u9519\u8BEF\u4FE1\u606F\u7684JSON':
+    'prefix': 'th-fail'
+    'body': 'this.fail({1:1000}, "{2:connect error}"); //\u6307\u5B9A\u9519\u8BEF\u53F7\u548C\u9519\u8BEF\u4FE1\u606F\r\n$0'

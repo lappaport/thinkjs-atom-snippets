@@ -1,0 +1,4 @@
+'.source.js':
+  'JSON \u8F93\u51FA':
+    'prefix': 'th-success'
+    'body': '//let data = {name: "thinkjs"};\r\nthis.success(data);\r\n$0'
